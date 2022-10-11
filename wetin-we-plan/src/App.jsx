@@ -62,7 +62,7 @@ function App() {
               <FontAwesomeIcon icon={faMagnifyingGlass} />
             </a>
 
-            <a className='notification-icon'>git
+            <a className='notification-icon'>
               <FontAwesomeIcon icon={faBell} />
             </a>
 
